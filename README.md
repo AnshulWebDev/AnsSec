@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [#](#)
 
-- 📫 How to reach me **anshulvishwa@gmail.com**
+- 📫 How to reach me **anshulvishwa20@gmail.com**
 
 - 📄 Know about my experiences [#](#)
 
