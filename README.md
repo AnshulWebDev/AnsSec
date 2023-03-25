@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [#](#)
 
-- 📫 How to reach me **anshulvishwa20@gmail.com**
+- 📫 How to reach me <a href="mailto:anshulvishwa20@gmail.com">Email</a>
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
