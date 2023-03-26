@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anssec&label=Profile%20views&color=0e75b6&style=flat" alt="anssec" /> </p>
 
-- 🔭 My Project [Random Password Generator](https://github.com/AnsSec/PasswordGenerator)
+- 🔭 My [Prtfolio](https://anshuldev.com)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📫 How to reach me <a href="mailto:anshulvishwa20@gmail.com">Email</a>
+- 📫 How to reach me <a href="mailto:contact@anshuldev.com">Email</a>
 
 - 📄 Know about my experiences 
 
