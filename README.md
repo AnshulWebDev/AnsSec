@@ -5,7 +5,7 @@
 
 - 🔭 My [Prtfolio](https://anshuldev.com)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 📫 How to reach me <a href="mailto:contact@anshuldev.com">Email</a>
 
