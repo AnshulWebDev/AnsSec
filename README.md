@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-<h2 align="center">Passionate MERN Developer</h2>
+<h2 align="center">Passionate <b>MERN</b> Developer</h2>
 
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
