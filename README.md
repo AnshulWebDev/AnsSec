@@ -1,6 +1,6 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN Stack Development<br>💬 [Contact Me] (https://anshuldev.com/contact)
-
+🌱 I’m currently learning MERN Stack Development </br>
+💬 <a href="https://anshuldev.com/contact" target="_blank">Contact Me</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wassupanshul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/av-dev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tbanshul) 
