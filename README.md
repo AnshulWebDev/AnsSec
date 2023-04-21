@@ -1,5 +1,9 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><span> Hey, Im Anshul . </span></h1>
 
+<div  align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&width=435&lines=Passionate+MERN+Developer;Coder;Always+learning+new+things" alt="Typing SVG" /></a>
+</div>
+
 <div align="center">
   <img height="150" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
 </div>
