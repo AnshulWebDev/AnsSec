@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"  />
+  <img height="250" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="anshulwebdev" /> </p>
