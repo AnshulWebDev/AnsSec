@@ -25,4 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshulwebdev&show_icons=true&locale=en" alt="anshulwebdev" /></p>
 
 ### ✍ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
