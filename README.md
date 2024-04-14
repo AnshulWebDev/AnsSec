@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/><span> नमस्ते (Namaste), I Am Anshul . </span></h1>
 
 <div  align="center" style="width: fit-content;">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&width=435&lines=Passionate+MERN+Developer;Coder;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&width=435&lines=Cyber+security+nerd;Passionate+MERN+Developer;Coder;Always+learning+new+things" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
